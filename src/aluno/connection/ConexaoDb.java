@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class ConexaoDb {
 
     private static String USERNAME = "root";
-    private static String PASSWORD = "felipe2806";
+    private static String PASSWORD = "yourpassword"; // put your database root password here
     private static String DBURL = "jdbc:mysql://localhost:3306/alunos";
 
     public static Connection CreatConnection()
