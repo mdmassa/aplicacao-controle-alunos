@@ -50,7 +50,7 @@ Para fazer uma busca por um aluno, selecione a opção "Fazer uma busca" e infor
 ## Autores
 
 * [Bianca Lima](https://github.com/bi4lim4)
-* [Luiz Felipe de Souza Vasconcelos](https://github.com/felipexn)
+* [Luiz Felipe Souza Vasconcelos](https://github.com/felipexn)
 * [Maria Eduarda Massa](https://github.com/mdmassa)
 
 ## Contribuição
